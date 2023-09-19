@@ -1,0 +1,4310 @@
+{
+  "stats": {
+    "errors": [
+      {
+        "type": "page",
+        "target": "fr",
+        "source": "404.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/a-propos-de-nous/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/apprentissage-et-perfectionnement/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/l-accessibilite-dans-votre-role/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/comment-faire/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/principes-de-base-de-l-accessibilite/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/ressources-et-outils/index.html",
+        "source": "fr/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/types-d-invalidite-les-plus-courants/fr/index.html",
+        "source": "fr/types-d-invalidite-les-plus-courants/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/types-d-invalidite-les-plus-courants/fr/a-propos-des-handicaps",
+        "source": "fr/types-d-invalidite-les-plus-courants/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/testez-vos-produits/fr/index.html",
+        "source": "fr/testez-vos-produits/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/testez-vos-produits/fr/comment-faire",
+        "source": "fr/testez-vos-produits/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/fr/index.html",
+        "source": "fr/standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/standard",
+        "source": "en/standards/standard/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/what_we_heard_report",
+        "source": "en/standards/what_we_heard_report/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/what_we_heard_report",
+        "source": "en/standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/what_we_heard_report/fr/index.html",
+        "source": "fr/standards/what_we_heard_report/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/what_we_heard_report/docs/sitka-wwhr-fr.pptx",
+        "source": "fr/standards/what_we_heard_report/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/standard",
+        "source": "en/standards/backgrounder/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/standard/fr/index.html",
+        "source": "fr/standards/standard/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/backgrounder",
+        "source": "fr/standards/backgrounder/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/backgrounder/fr/index.html",
+        "source": "fr/standards/backgrounder/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/ressources-et-outils/fr/index.html",
+        "source": "fr/ressources-et-outils/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/ressources-et-outils/fr/outils/index.html",
+        "source": "fr/ressources-et-outils/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/ressources-et-outils/fr/ressources/index.html",
+        "source": "fr/ressources-et-outils/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/ressources/fr/index.html",
+        "source": "fr/ressources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/ressources/fr/ressources-et-outils",
+        "source": "fr/ressources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/repertoire-de-la-communaute/fr/index.html",
+        "source": "fr/repertoire-de-la-communaute/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/repertoire-de-la-communaute/fr/accessibilite-au-gouvernement-du-canada",
+        "source": "fr/repertoire-de-la-communaute/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/fr/index.html",
+        "source": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/fr/a-propos-de-nous",
+        "source": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/fr/a-propos-du-projet",
+        "source": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/en/about/workinggroups/awg/index.html",
+        "source": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/terms-of-reference/index.html",
+        "source": "fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/principes-de-base-de-l-accessibilite/fr/index.html",
+        "source": "fr/principes-de-base-de-l-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/principes-de-base-de-l-accessibilite/fr/a-propos-des-handicaps/index.html",
+        "source": "fr/principes-de-base-de-l-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/principes-de-base-de-l-accessibilite/fr/normes-d-accessibilite-mondiales/index.html",
+        "source": "fr/principes-de-base-de-l-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/workinggroups/awg/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/workinggroups/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/workinggroups/measurement/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/personas/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/organizations/statcan/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-web-pages/a11ycheck/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-web-pages/wcag/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/a11ycheck-nonweb/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/web-application-developer/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/web-application-tester/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/writers-editors-translators/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/bookmarks/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/organizations/esdc/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/accessible-documents-questions-answers/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/Official-languages-recommendations/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/proposed-meeting-types-accessibility-features/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/virtual-meeting-platforms-accessibility-features/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/blindness/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/cognition/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/deafness/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/low-vision/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/common-types-of-disabilities/mobility-dexterity/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-desktop-software/a11ycheck-nonweb/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-desktop-software/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/organizations/csps/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/CART-services-Sign-Language-Interpreters/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-meetings/additional-resources/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/introduction/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/introduction/accessible-image/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/standards/backgrounder/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/standards/standard/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/best-practices-excel/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/best-practices-outlook/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/best-practices-powerpoint/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/best-practices-word/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-documents/pdf-accessibility-checklist/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessible-web-pages/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/desktop-application-developer/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/desktop-application-tester/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/curriculum/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/improving-form-accessibility/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/standards/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/standards/what_we_heard_report/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/virtual-meetings/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/accessible-excel-documents/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/accessible-pdf-documents/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/accessible-powerpoint-documents/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/accessible-visio-diagrams/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/accessible-word-documents/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office2016/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/accessible-excel-documents-365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/accessible-pdf-documents-365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/accessible-powerpoint-documents-365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/accessible-visio-diagrams-365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/accessible-word-documents-365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/office365/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/ict-requirements/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/design-accessible-services/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/guides/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/about/organizations/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/undefined/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/a-propos-de-nous/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/apprentissage-et-perfectionnement/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/l-accessibilite-dans-votre-role/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/conception-universelle-pour-l-apprentissage-cua/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/handicaps-cognitifs/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/handicaps-de-mobilite-de-flexibilite-et-de-structure-corporelle/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/a-propos-du-projet/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/contactez-nous/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/approvisionnement/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/loi-sur-l-accessibilite/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/repertoire-de-la-communaute/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/concevoir-un-cours/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/creer-du-contenu-web/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/creer-un-courriel/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/creer-un-document/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/creer-un-formulaire/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/comment-faire/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/organiser-des-reunions-et-des-evenements/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/testez-vos-produits/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/a-propos-des-handicaps/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/principes-de-base-de-l-accessibilite/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/normes-d-accessibilite-mondiales/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/ressources-et-outils/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/outils/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/ressources/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/deficiences-auditives/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/deficiences-visuelles/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/diffusions-en-direct/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/directives-pour-la-description-sonore/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/directives-pour-la-transcription/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/directives-pour-le-sous-titrage/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/enregistrements/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/langue-du-contenu-audio-video/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/liste-de-controle-des-transcriptions/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/liste-de-controle-pour-le-sous-titrage/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/types-d-invalidite-les-plus-courants/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/normes-d-accessibilite/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/mandats/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list/fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "source": "fr/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/outils/fr/index.html",
+        "source": "fr/outils/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/outils/fr/ressources-et-outils",
+        "source": "fr/outils/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/organiser-des-reunions-et-des-evenements/fr/index.html",
+        "source": "fr/organiser-des-reunions-et-des-evenements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/organiser-des-reunions-et-des-evenements/fr/comment-faire",
+        "source": "fr/organiser-des-reunions-et-des-evenements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/normes-d-accessibilite-mondiales/fr/index.html",
+        "source": "fr/normes-d-accessibilite-mondiales/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/normes-d-accessibilite-mondiales/fr/principes-de-base-de-l-accessibilite",
+        "source": "fr/normes-d-accessibilite-mondiales/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/normes-d-accessibilite/fr/index.html",
+        "source": "fr/normes-d-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/normes-d-accessibilite/fr/accessibilite-au-gouvernement-du-canada",
+        "source": "fr/normes-d-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/mandats/fr/index.html",
+        "source": "fr/mandats/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/mandats/fr/a-propos-de-nous",
+        "source": "fr/mandats/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/mandats/fr/a-propos-du-projet",
+        "source": "fr/mandats/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/mandats/en/about/workinggroups/awg/index.html",
+        "source": "fr/mandats/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/loi-sur-l-accessibilite/fr/index.html",
+        "source": "fr/loi-sur-l-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/loi-sur-l-accessibilite/fr/accessibilite-au-gouvernement-du-canada",
+        "source": "fr/loi-sur-l-accessibilite/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/liste-de-controle-pour-le-sous-titrage/fr/index.html",
+        "source": "fr/liste-de-controle-pour-le-sous-titrage/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/liste-de-controle-pour-le-sous-titrage/fr/creer-du-contenu-web",
+        "source": "fr/liste-de-controle-pour-le-sous-titrage/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/liste-de-controle-des-transcriptions/fr/index.html",
+        "source": "fr/liste-de-controle-des-transcriptions/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/liste-de-controle-des-transcriptions/fr/creer-du-contenu-web",
+        "source": "fr/liste-de-controle-des-transcriptions/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/langue-du-contenu-audio-video/fr/index.html",
+        "source": "fr/langue-du-contenu-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/langue-du-contenu-audio-video/fr/creer-du-contenu-web",
+        "source": "fr/langue-du-contenu-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/l-accessibilite-dans-votre-role/fr/index.html",
+        "source": "fr/l-accessibilite-dans-votre-role/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/fr/index.html",
+        "source": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/fr/creer-du-contenu-web",
+        "source": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/%5Cl",
+        "source": "fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction/fr/index.html",
+        "source": "fr/introduction/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction/accessible-image.html",
+        "source": "fr/introduction/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction/accessible-image",
+        "source": "fr/introduction/accessible-image/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction/accessible-image/fr/index.html",
+        "source": "fr/introduction/accessible-image/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/handicaps-de-mobilite-de-flexibilite-et-de-structure-corporelle/fr/index.html",
+        "source": "fr/handicaps-de-mobilite-de-flexibilite-et-de-structure-corporelle/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/handicaps-cognitifs/fr/index.html",
+        "source": "fr/handicaps-cognitifs/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/fr/index.html",
+        "source": "fr/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/improving-form-accessibility",
+        "source": "en/guides/improving-form-accessibility/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/virtual-meetings",
+        "source": "fr/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/design-accessible-services",
+        "source": "en/guides/design-accessible-services/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/personas",
+        "source": "en/guides/personas/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/ict-requirements",
+        "source": "en/guides/ict-requirements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/virtual-meetings/fr/index.html",
+        "source": "fr/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/virtual-meetings/docs/alternate-formats/PratiquesExemplairesPourLaTenueDeRéunionsVirtuellesAccessibles.docx",
+        "source": "fr/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/virtual-meetings/aaact-aatia@ssc-spc.gc.ca",
+        "source": "fr/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/personas",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/personas/fr/index.html",
+        "source": "fr/guides/personas/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/fr/index.html",
+        "source": "fr/guides/office365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-word-documents-365",
+        "source": "en/guides/office365/accessible-word-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-pdf-documents-365",
+        "source": "en/guides/office365/accessible-pdf-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-powerpoint-documents-365",
+        "source": "en/guides/office365/accessible-powerpoint-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-excel-documents-365",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-visio-diagrams-365",
+        "source": "en/guides/office365/accessible-visio-diagrams-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-word-documents-365",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-word-documents-365/fr/index.html",
+        "source": "fr/guides/office365/accessible-word-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-visio-diagrams-365",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-visio-diagrams-365/fr/index.html",
+        "source": "fr/guides/office365/accessible-visio-diagrams-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-powerpoint-documents-365",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-powerpoint-documents-365/fr/index.html",
+        "source": "fr/guides/office365/accessible-powerpoint-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-pdf-documents-365",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-pdf-documents-365/fr/index.html",
+        "source": "fr/guides/office365/accessible-pdf-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-excel-documents-365",
+        "source": "en/guides/office365/accessible-pdf-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-excel-documents-365/fr/index.html",
+        "source": "fr/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office365/accessible-visio-documents-365",
+        "source": "fr/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/fr/index.html",
+        "source": "fr/guides/office2016/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-word-documents",
+        "source": "en/guides/office2016/accessible-word-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-pdf-documents",
+        "source": "en/guides/office2016/accessible-pdf-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-powerpoint-documents",
+        "source": "en/guides/office2016/accessible-powerpoint-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-excel-documents",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-visio-diagrams",
+        "source": "en/guides/office2016/accessible-visio-diagrams/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-word-documents",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-word-documents/fr/index.html",
+        "source": "fr/guides/office2016/accessible-word-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-visio-diagrams",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-visio-diagrams/fr/index.html",
+        "source": "fr/guides/office2016/accessible-visio-diagrams/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-powerpoint-documents",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-powerpoint-documents/fr/index.html",
+        "source": "fr/guides/office2016/accessible-powerpoint-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-pdf-documents",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-pdf-documents/fr/index.html",
+        "source": "fr/guides/office2016/accessible-pdf-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-excel-documents",
+        "source": "en/guides/office2016/accessible-pdf-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/office2016/accessible-excel-documents/fr/index.html",
+        "source": "fr/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/improving-form-accessibility",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/improving-form-accessibility/fr/index.html",
+        "source": "fr/guides/improving-form-accessibility/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/ict-requirements",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/ict-requirements/fr/index.html",
+        "source": "fr/guides/ict-requirements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/ict-requirements/docs/Annexe%20X%20-%20Exigences%20en%20mati%C3%A8re%20de%20TIC%20accessibles.docx",
+        "source": "fr/guides/ict-requirements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/design-accessible-services",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/guides/design-accessible-services/fr/index.html",
+        "source": "fr/guides/design-accessible-services/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/enregistrements/fr/index.html",
+        "source": "fr/enregistrements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/enregistrements/fr/creer-du-contenu-web",
+        "source": "fr/enregistrements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-le-sous-titrage/fr/index.html",
+        "source": "fr/directives-pour-le-sous-titrage/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-le-sous-titrage/fr/creer-du-contenu-web",
+        "source": "fr/directives-pour-le-sous-titrage/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-la-transcription/fr/index.html",
+        "source": "fr/directives-pour-la-transcription/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-la-transcription/fr/creer-du-contenu-web",
+        "source": "fr/directives-pour-la-transcription/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-la-description-sonore/fr/index.html",
+        "source": "fr/directives-pour-la-description-sonore/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/directives-pour-la-description-sonore/fr/creer-du-contenu-web",
+        "source": "fr/directives-pour-la-description-sonore/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/diffusions-en-direct/fr/index.html",
+        "source": "fr/diffusions-en-direct/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/diffusions-en-direct/fr/creer-du-contenu-web",
+        "source": "fr/diffusions-en-direct/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/deficiences-visuelles/fr/index.html",
+        "source": "fr/deficiences-visuelles/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/deficiences-visuelles/fr/a-propos-des-handicaps",
+        "source": "fr/deficiences-visuelles/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/deficiences-auditives/fr/index.html",
+        "source": "fr/deficiences-auditives/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/deficiences-auditives/fr/a-propos-des-handicaps",
+        "source": "fr/deficiences-auditives/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/fr/index.html",
+        "source": "fr/curriculum/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/writers-editors-translators",
+        "source": "fr/curriculum/writers-editors-translators/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/writers-editors-translators/fr/index.html",
+        "source": "fr/curriculum/writers-editors-translators/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/web-application-tester",
+        "source": "fr/curriculum/web-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/web-application-tester/fr/index.html",
+        "source": "fr/curriculum/web-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/web-application-developer",
+        "source": "fr/curriculum/web-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/web-application-developer/fr/index.html",
+        "source": "fr/curriculum/web-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/desktop-application-tester",
+        "source": "fr/curriculum/desktop-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/desktop-application-tester/fr/index.html",
+        "source": "fr/curriculum/desktop-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/fr/curriculum/a11ycheck-nonweb/index.html",
+        "source": "fr/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/desktop-application-developer",
+        "source": "fr/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/desktop-application-developer/fr/index.html",
+        "source": "fr/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/a11ycheck-nonweb",
+        "source": "fr/curriculum/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/a11ycheck-nonweb/fr/index.html",
+        "source": "fr/curriculum/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-formulaire/fr/index.html",
+        "source": "fr/creer-un-formulaire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-formulaire/fr/comment-faire",
+        "source": "fr/creer-un-formulaire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-document/fr/index.html",
+        "source": "fr/creer-un-document/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-document/fr/comment-faire",
+        "source": "fr/creer-un-document/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-courriel/fr/index.html",
+        "source": "fr/creer-un-courriel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-un-courriel/fr/comment-faire",
+        "source": "fr/creer-un-courriel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/comment-faire",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/diffusions-en-direct/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/directives-pour-la-description-sonore/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/directives-pour-la-transcription/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/directives-pour-le-sous-titrage/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/enregistrements/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/introduction-aux-exigences-d-accessibilite-pour-l-audio-video/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/langue-du-contenu-audio-video/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/liste-de-controle-des-transcriptions/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/creer-du-contenu-web/fr/liste-de-controle-pour-le-sous-titrage/index.html",
+        "source": "fr/creer-du-contenu-web/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/contactez-nous/fr/index.html",
+        "source": "fr/contactez-nous/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/contactez-nous/fr/a-propos-de-nous",
+        "source": "fr/contactez-nous/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/concevoir-un-cours/fr/index.html",
+        "source": "fr/concevoir-un-cours/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/concevoir-un-cours/fr/comment-faire",
+        "source": "fr/concevoir-un-cours/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/conception-universelle-pour-l-apprentissage-cua/fr/index.html",
+        "source": "fr/conception-universelle-pour-l-apprentissage-cua/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/fr/index.html",
+        "source": "fr/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/low-vision",
+        "source": "en/common-types-of-disabilities/low-vision/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/blindness",
+        "source": "en/common-types-of-disabilities/blindness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/mobility-dexterity",
+        "source": "en/common-types-of-disabilities/mobility-dexterity/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/deafness",
+        "source": "en/common-types-of-disabilities/deafness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/cognition",
+        "source": "en/common-types-of-disabilities/cognition/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/mobility-dexterity",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/mobility-dexterity/fr/index.html",
+        "source": "fr/common-types-of-disabilities/mobility-dexterity/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/low-vision",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/low-vision/fr/index.html",
+        "source": "fr/common-types-of-disabilities/low-vision/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/deafness",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/deafness/fr/index.html",
+        "source": "fr/common-types-of-disabilities/deafness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/cognition",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/cognition/fr/index.html",
+        "source": "fr/common-types-of-disabilities/cognition/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/blindness",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/common-types-of-disabilities/blindness/fr/index.html",
+        "source": "fr/common-types-of-disabilities/blindness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/concevoir-un-cours/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/creer-du-contenu-web/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/creer-un-courriel/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/creer-un-document/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/creer-un-formulaire/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/organiser-des-reunions-et-des-evenements/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/comment-faire/fr/testez-vos-produits/index.html",
+        "source": "fr/comment-faire/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/bookmarks/fr/index.html",
+        "source": "fr/bookmarks/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/approvisionnement/fr/index.html",
+        "source": "fr/approvisionnement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/approvisionnement/fr/accessibilite-au-gouvernement-du-canada",
+        "source": "fr/approvisionnement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/apprentissage-et-perfectionnement/fr/index.html",
+        "source": "fr/apprentissage-et-perfectionnement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-web-pages/fr/index.html",
+        "source": "fr/accessible-web-pages/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-web-pages/wcag",
+        "source": "fr/accessible-web-pages/wcag/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-web-pages/wcag/fr/index.html",
+        "source": "fr/accessible-web-pages/wcag/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-web-pages/a11ycheck",
+        "source": "fr/accessible-web-pages/a11ycheck/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-web-pages/a11ycheck/fr/index.html",
+        "source": "fr/accessible-web-pages/a11ycheck/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/fr/index.html",
+        "source": "fr/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/virtual-meeting-platforms-accessibility-features",
+        "source": "en/accessible-meetings/virtual-meeting-platforms-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/proposed-meeting-types-accessibility-features",
+        "source": "en/accessible-meetings/proposed-meeting-types-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/accessible-meeting-event-guidelines",
+        "source": "en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/additional-resources",
+        "source": "en/accessible-meetings/additional-resources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/CART-services-Sign-Language-Interpreters",
+        "source": "en/accessible-meetings/CART-services-Sign-Language-Interpreters/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/Official-languages-recommendations",
+        "source": "en/accessible-meetings/Official-languages-recommendations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/virtual-meeting-platforms-accessibility-features",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/virtual-meeting-platforms-accessibility-features/fr/index.html",
+        "source": "fr/accessible-meetings/virtual-meeting-platforms-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/proposed-meeting-types-accessibility-features",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/proposed-meeting-types-accessibility-features/fr/index.html",
+        "source": "fr/accessible-meetings/proposed-meeting-types-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/additional-resources",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/additional-resources/fr/index.html",
+        "source": "fr/accessible-meetings/additional-resources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/accessible-meeting-event-guidelines",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/accessible-meeting-event-guidelines/fr/index.html",
+        "source": "fr/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/accessible-meeting-event-guidelines/Official-languages-recommendations-fr.html",
+        "source": "fr/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/accessible-meeting-event-guidelines/src\\_docs\\reunions-et-evenements-accessibles-resume-de-la-liste-de-conseils.docx",
+        "source": "fr/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/Official-languages-recommendations",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/Official-languages-recommendations/fr/index.html",
+        "source": "fr/accessible-meetings/Official-languages-recommendations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/CART-services-Sign-Language-Interpreters",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-meetings/CART-services-Sign-Language-Interpreters/fr/index.html",
+        "source": "fr/accessible-meetings/CART-services-Sign-Language-Interpreters/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/fr/index.html",
+        "source": "fr/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/pdf-accessibility-checklist",
+        "source": "fr/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/pdf-accessibility-checklist/fr/index.html",
+        "source": "fr/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/ms-doc-compliance-checklist",
+        "source": "fr/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/ms-doc-compliance-checklist/fr/index.html",
+        "source": "fr/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-word",
+        "source": "fr/accessible-documents/best-practices-word/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-word/fr/index.html",
+        "source": "fr/accessible-documents/best-practices-word/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-powerpoint",
+        "source": "fr/accessible-documents/best-practices-powerpoint/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-powerpoint/fr/index.html",
+        "source": "fr/accessible-documents/best-practices-powerpoint/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-outlook",
+        "source": "fr/accessible-documents/best-practices-outlook/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-outlook/fr/index.html",
+        "source": "fr/accessible-documents/best-practices-outlook/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-excel",
+        "source": "fr/accessible-documents/best-practices-excel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-excel/fr/index.html",
+        "source": "fr/accessible-documents/best-practices-excel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/accessible-documents-questions-answers",
+        "source": "en/accessible-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/accessible-documents-questions-answers/fr/index.html",
+        "source": "fr/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/accessible-documents-questions-answers/resources/best-practices-excel/index.html",
+        "source": "fr/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-desktop-software/fr/index.html",
+        "source": "fr/accessible-desktop-software/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-desktop-software/a11ycheck-nonweb",
+        "source": "en/accessible-desktop-software/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-desktop-software/a11ycheck-nonweb",
+        "source": "en/accessible-desktop-software/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-desktop-software/a11ycheck-nonweb/fr/index.html",
+        "source": "fr/accessible-desktop-software/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessibilite-au-gouvernement-du-canada/fr/index.html",
+        "source": "fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessibilite-au-gouvernement-du-canada/fr/approvisionnement/index.html",
+        "source": "fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessibilite-au-gouvernement-du-canada/fr/loi-sur-l-accessibilite/index.html",
+        "source": "fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessibilite-au-gouvernement-du-canada/fr/repertoire-de-la-communaute/index.html",
+        "source": "fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessibilite-au-gouvernement-du-canada/fr/normes-d-accessibilite/index.html",
+        "source": "fr/accessibilite-au-gouvernement-du-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/fr/index.html",
+        "source": "fr/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/dat",
+        "source": "fr/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations",
+        "source": "fr/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/workinggroups",
+        "source": "fr/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/workinggroups/fr/index.html",
+        "source": "fr/about/workinggroups/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/workinggroups/awg",
+        "source": "fr/about/workinggroups/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/workinggroups/measurement/fr/index.html",
+        "source": "fr/about/workinggroups/measurement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/workinggroups/awg/fr/index.html",
+        "source": "fr/about/workinggroups/awg/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/fr/index.html",
+        "source": "fr/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/csps",
+        "source": "fr/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/esdc",
+        "source": "fr/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/statcan",
+        "source": "fr/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/statcan/fr/index.html",
+        "source": "fr/about/organizations/statcan/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/esdc/fr/index.html",
+        "source": "fr/about/organizations/esdc/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/about/organizations/csps/fr/index.html",
+        "source": "fr/about/organizations/csps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-du-projet/fr/index.html",
+        "source": "fr/a-propos-du-projet/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-du-projet/fr/a-propos-de-nous",
+        "source": "fr/a-propos-du-projet/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-du-projet/fr/mandats/index.html",
+        "source": "fr/a-propos-du-projet/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-du-projet/fr/project-de-la-boite-a-outils-de-l-accessibilite-numerique/index.html",
+        "source": "fr/a-propos-du-projet/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-des-handicaps/fr/index.html",
+        "source": "fr/a-propos-des-handicaps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-des-handicaps/fr/principes-de-base-de-l-accessibilite",
+        "source": "fr/a-propos-des-handicaps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-des-handicaps/fr/deficiences-auditives/index.html",
+        "source": "fr/a-propos-des-handicaps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-des-handicaps/fr/deficiences-visuelles/index.html",
+        "source": "fr/a-propos-des-handicaps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-des-handicaps/fr/types-d-invalidite-les-plus-courants/index.html",
+        "source": "fr/a-propos-des-handicaps/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-de-nous/fr/index.html",
+        "source": "fr/a-propos-de-nous/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-de-nous/fr/a-propos-du-projet/index.html",
+        "source": "fr/a-propos-de-nous/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/a-propos-de-nous/fr/contactez-nous/index.html",
+        "source": "fr/a-propos-de-nous/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/accessibility-in-your-role/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/learning-and-development/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/about-us/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/accessibility-fundamentals/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/accessibility-in-the-government-of-canada/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/how-to-s/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/resources-and-tools/index.html",
+        "source": "en/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/visual-impairments/en/index.html",
+        "source": "en/visual-impairments/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/visual-impairments/en/about-disabilities",
+        "source": "en/visual-impairments/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/universal-design-for-learning-udl/en/index.html",
+        "source": "en/universal-design-for-learning-udl/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/transcript-guidelines/en/index.html",
+        "source": "en/transcript-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/transcript-guidelines/en/create-web-content",
+        "source": "en/transcript-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/transcript-checklist/en/index.html",
+        "source": "en/transcript-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/transcript-checklist/en/create-web-content",
+        "source": "en/transcript-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/tools/en/index.html",
+        "source": "en/tools/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/tools/en/resources-and-tools",
+        "source": "en/tools/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/test-your-products/en/index.html",
+        "source": "en/test-your-products/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/test-your-products/en/how-to-s",
+        "source": "en/test-your-products/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/terms-of-reference/en/index.html",
+        "source": "en/terms-of-reference/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/terms-of-reference/en/about-us",
+        "source": "en/terms-of-reference/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/terms-of-reference/en/about-the-digital-the-accessibility-toolkit-project",
+        "source": "en/terms-of-reference/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/terms-of-reference/en/about/workinggroups/awg/index.html",
+        "source": "en/terms-of-reference/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/en/index.html",
+        "source": "en/standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/what_we_heard_report/en/index.html",
+        "source": "en/standards/what_we_heard_report/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/what_we_heard_report/docs/sitka-wwhr-en.pptx",
+        "source": "en/standards/what_we_heard_report/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/standard/en/index.html",
+        "source": "en/standards/standard/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/standards/backgrounder",
+        "source": "en/standards/backgrounder/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/standards/backgrounder/en/index.html",
+        "source": "en/standards/backgrounder/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/resources-and-tools/en/index.html",
+        "source": "en/resources-and-tools/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/resources-and-tools/en/resources/index.html",
+        "source": "en/resources-and-tools/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/resources-and-tools/en/tools/index.html",
+        "source": "en/resources-and-tools/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/resources/en/index.html",
+        "source": "en/resources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/resources/en/resources-and-tools",
+        "source": "en/resources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/recordings/en/index.html",
+        "source": "en/recordings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/recordings/en/create-web-content",
+        "source": "en/recordings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/procurement/en/index.html",
+        "source": "en/procurement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/procurement/en/accessibility-in-the-government-of-canada",
+        "source": "en/procurement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/page-list",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/workinggroups/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/organizations/statcan/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-web-pages/a11ycheck/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-web-pages/wcag/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/a11ycheck-nonweb/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/web-application-developer/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/writers-editors-translators/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/bookmarks/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/organizations/esdc/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/accessible-documents-questions-answers/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/workinggroups/awg/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/Official-languages-recommendations/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/proposed-meeting-types-accessibility-features/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/virtual-meeting-platforms-accessibility-features/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/blindness/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/cognition/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/deafness/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/low-vision/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/common-types-of-disabilities/mobility-dexterity/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-desktop-software/a11ycheck-nonweb/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-desktop-software/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/organizations/csps/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/workinggroups/measurement/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/CART-services-Sign-Language-Interpreters/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/cra/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/introduction/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/introduction/accessible-image/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-meetings/additional-resources/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/web-application-tester/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/standards/backgrounder/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/standards/standard/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/best-practices-excel/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/best-practices-outlook/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/best-practices-powerpoint/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/best-practices-word/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-documents/pdf-accessibility-checklist/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessible-web-pages/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/desktop-application-developer/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/desktop-application-tester/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/curriculum/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/personas/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/improving-form-accessibility/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/standards/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/standards/what_we_heard_report/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/virtual-meetings/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/accessible-excel-documents/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/accessible-pdf-documents/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/accessible-powerpoint-documents/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/accessible-visio-diagrams/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/accessible-word-documents/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office2016/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/accessible-excel-documents-365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/accessible-pdf-documents-365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/accessible-powerpoint-documents-365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/accessible-visio-diagrams-365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/accessible-word-documents-365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/office365/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/ict-requirements/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/design-accessible-services/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/guides/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about/organizations/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/undefined/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessibility-in-your-role/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/learning-and-development/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about-us/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/mobility-flexibility-and-body-structure-disabilities/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/universal-design-for-learning-udl/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/contact-us/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about-disabilities/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/global-accessibility-standards/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessibility-fundamentals/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessibility-act/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/community-directory/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessibility-in-the-government-of-canada/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/procurement/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/create-document/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/create-emails/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/create-forms/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/create-web-content/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/design-a-course/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/host-a-meetings-and-events/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/how-to-s/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/test-your-products/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/resources-and-tools/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/resources/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/tools/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/audio-description-guidelines/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/auditory-disabilities/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/captioning-checklist/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/captioning-guidelines/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/cognitive-disabilities/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/introduction-to-accessibility-requirements-for-audio-video/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/language-of-audio-video-content/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/live-broadcast/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/most-common-types-of-disability/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/recordings/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/transcript-checklist/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/transcript-guidelines/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/visual-impairments/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/accessibility-standards/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/digital-accessibility-toolkit-project/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/page-list/en/terms-of-reference/index.html",
+        "source": "en/page-list/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/most-common-types-of-disability/en/index.html",
+        "source": "en/most-common-types-of-disability/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/most-common-types-of-disability/en/about-disabilities",
+        "source": "en/most-common-types-of-disability/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/mobility-flexibility-and-body-structure-disabilities/en/index.html",
+        "source": "en/mobility-flexibility-and-body-structure-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/live-broadcast/en/index.html",
+        "source": "en/live-broadcast/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/live-broadcast/en/create-web-content",
+        "source": "en/live-broadcast/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/learning-and-development/en/index.html",
+        "source": "en/learning-and-development/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/language-of-audio-video-content/en/index.html",
+        "source": "en/language-of-audio-video-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/language-of-audio-video-content/en/create-web-content",
+        "source": "en/language-of-audio-video-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction-to-accessibility-requirements-for-audio-video/en/index.html",
+        "source": "en/introduction-to-accessibility-requirements-for-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction-to-accessibility-requirements-for-audio-video/en/create-web-content",
+        "source": "en/introduction-to-accessibility-requirements-for-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction-to-accessibility-requirements-for-audio-video/%5Cl",
+        "source": "en/introduction-to-accessibility-requirements-for-audio-video/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction/en/index.html",
+        "source": "en/introduction/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction/accessible-image.html",
+        "source": "en/introduction/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/introduction/accessible-image",
+        "source": "en/introduction/accessible-image/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/introduction/accessible-image/en/index.html",
+        "source": "en/introduction/accessible-image/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/create-document/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/create-emails/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/create-forms/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/create-web-content/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/design-a-course/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/host-a-meetings-and-events/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/how-to-s/en/test-your-products/index.html",
+        "source": "en/how-to-s/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/host-a-meetings-and-events/en/index.html",
+        "source": "en/host-a-meetings-and-events/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/host-a-meetings-and-events/en/how-to-s",
+        "source": "en/host-a-meetings-and-events/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/en/index.html",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/virtual-meetings",
+        "source": "en/guides/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/virtual-meetings/en/index.html",
+        "source": "en/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/virtual-meetings/docs/alternate-formats/AccessibleVirtualMeetingsEN.docx",
+        "source": "en/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/virtual-meetings/aaact-aatia@ssc-spc.gc.ca",
+        "source": "en/guides/virtual-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/personas/en/index.html",
+        "source": "en/guides/personas/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/en/index.html",
+        "source": "en/guides/office365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-word-documents-365/en/index.html",
+        "source": "en/guides/office365/accessible-word-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-visio-diagrams-365/en/index.html",
+        "source": "en/guides/office365/accessible-visio-diagrams-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-powerpoint-documents-365/en/index.html",
+        "source": "en/guides/office365/accessible-powerpoint-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-pdf-documents-365/en/index.html",
+        "source": "en/guides/office365/accessible-pdf-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office365/accessible-excel-documents-365/en/index.html",
+        "source": "en/guides/office365/accessible-excel-documents-365/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/en/index.html",
+        "source": "en/guides/office2016/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-word-documents/en/index.html",
+        "source": "en/guides/office2016/accessible-word-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-visio-diagrams/en/index.html",
+        "source": "en/guides/office2016/accessible-visio-diagrams/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-powerpoint-documents/en/index.html",
+        "source": "en/guides/office2016/accessible-powerpoint-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-pdf-documents/en/index.html",
+        "source": "en/guides/office2016/accessible-pdf-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/office2016/accessible-excel-documents/en/index.html",
+        "source": "en/guides/office2016/accessible-excel-documents/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/improving-form-accessibility/en/index.html",
+        "source": "en/guides/improving-form-accessibility/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/ict-requirements/en/index.html",
+        "source": "en/guides/ict-requirements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/ict-requirements/docs/Annex%20X%20-%20ICT%20Accessibility%20Requirements.docx",
+        "source": "en/guides/ict-requirements/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/guides/design-accessible-services/en/index.html",
+        "source": "en/guides/design-accessible-services/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/global-accessibility-standards/en/index.html",
+        "source": "en/global-accessibility-standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/global-accessibility-standards/en/accessibility-fundamentals",
+        "source": "en/global-accessibility-standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/digital-accessibility-toolkit-project/en/index.html",
+        "source": "en/digital-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/digital-accessibility-toolkit-project/en/about-us",
+        "source": "en/digital-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/digital-accessibility-toolkit-project/en/about-the-digital-the-accessibility-toolkit-project",
+        "source": "en/digital-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/digital-accessibility-toolkit-project/en/about/workinggroups/awg/index.html",
+        "source": "en/digital-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/digital-accessibility-toolkit-project/terms-of-reference/index.html",
+        "source": "en/digital-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/design-a-course/en/index.html",
+        "source": "en/design-a-course/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/design-a-course/en/how-to-s",
+        "source": "en/design-a-course/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/en/index.html",
+        "source": "en/curriculum/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/writers-editors-translators",
+        "source": "en/curriculum/writers-editors-translators/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/writers-editors-translators/en/index.html",
+        "source": "en/curriculum/writers-editors-translators/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/web-application-tester",
+        "source": "en/curriculum/web-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/web-application-tester/en/index.html",
+        "source": "en/curriculum/web-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/web-application-developer",
+        "source": "en/curriculum/web-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/web-application-developer/en/index.html",
+        "source": "en/curriculum/web-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/desktop-application-tester",
+        "source": "en/curriculum/desktop-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/desktop-application-tester/en/index.html",
+        "source": "en/curriculum/desktop-application-tester/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/en/curriculum/a11ycheck-nonweb/index.html",
+        "source": "en/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/desktop-application-developer",
+        "source": "en/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/desktop-application-developer/en/index.html",
+        "source": "en/curriculum/desktop-application-developer/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/curriculum/a11ycheck-nonweb",
+        "source": "en/curriculum/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/curriculum/a11ycheck-nonweb/en/index.html",
+        "source": "en/curriculum/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/how-to-s",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/audio-description-guidelines/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/captioning-checklist/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/captioning-guidelines/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/introduction-to-accessibility-requirements-for-audio-video/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/language-of-audio-video-content/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/live-broadcast/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/recordings/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/transcript-checklist/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-web-content/en/transcript-guidelines/index.html",
+        "source": "en/create-web-content/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-forms/en/index.html",
+        "source": "en/create-forms/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-forms/en/how-to-s",
+        "source": "en/create-forms/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-emails/en/index.html",
+        "source": "en/create-emails/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-emails/en/how-to-s",
+        "source": "en/create-emails/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-document/en/index.html",
+        "source": "en/create-document/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/create-document/en/how-to-s",
+        "source": "en/create-document/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/cra/index.html",
+        "source": "en/cra/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/cra/en/index.html",
+        "source": "en/cra/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/contact-us/en/index.html",
+        "source": "en/contact-us/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/contact-us/en/about-us",
+        "source": "en/contact-us/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/community-directory/en/index.html",
+        "source": "en/community-directory/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/community-directory/en/accessibility-in-the-government-of-canada",
+        "source": "en/community-directory/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/en/index.html",
+        "source": "en/common-types-of-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/mobility-dexterity/en/index.html",
+        "source": "en/common-types-of-disabilities/mobility-dexterity/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/low-vision/en/index.html",
+        "source": "en/common-types-of-disabilities/low-vision/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/deafness/en/index.html",
+        "source": "en/common-types-of-disabilities/deafness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/cognition/en/index.html",
+        "source": "en/common-types-of-disabilities/cognition/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/common-types-of-disabilities/blindness/en/index.html",
+        "source": "en/common-types-of-disabilities/blindness/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/cognitive-disabilities/en/index.html",
+        "source": "en/cognitive-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/cognitive-disabilities/en/about-disabilities",
+        "source": "en/cognitive-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/captioning-guidelines/en/index.html",
+        "source": "en/captioning-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/captioning-guidelines/en/create-web-content",
+        "source": "en/captioning-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/captioning-checklist/en/index.html",
+        "source": "en/captioning-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/captioning-checklist/en/create-web-content",
+        "source": "en/captioning-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/bookmarks/en/index.html",
+        "source": "en/bookmarks/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/auditory-disabilities/en/index.html",
+        "source": "en/auditory-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/auditory-disabilities/en/about-disabilities",
+        "source": "en/auditory-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/audio-description-guidelines/en/index.html",
+        "source": "en/audio-description-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/audio-description-guidelines/en/create-web-content",
+        "source": "en/audio-description-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-web-pages/en/index.html",
+        "source": "en/accessible-web-pages/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-web-pages/wcag",
+        "source": "en/accessible-web-pages/wcag/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-web-pages/wcag/en/index.html",
+        "source": "en/accessible-web-pages/wcag/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-web-pages/a11ycheck",
+        "source": "en/accessible-web-pages/a11ycheck/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-web-pages/a11ycheck/en/index.html",
+        "source": "en/accessible-web-pages/a11ycheck/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/en/index.html",
+        "source": "en/accessible-meetings/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/virtual-meeting-platforms-accessibility-features/en/index.html",
+        "source": "en/accessible-meetings/virtual-meeting-platforms-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/proposed-meeting-types-accessibility-features/en/index.html",
+        "source": "en/accessible-meetings/proposed-meeting-types-accessibility-features/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/additional-resources/en/index.html",
+        "source": "en/accessible-meetings/additional-resources/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/accessible-meeting-event-guidelines/en/index.html",
+        "source": "en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/accessible-meeting-event-guidelines/CART-services-Sign-Language-Interpreters",
+        "source": "en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/accessible-meeting-event-guidelines/Official-languages-recommendations",
+        "source": "en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/accessible-meeting-event-guidelines/src\\_docs\\accessible-meetings-and-events-summary-of-advice-list.docx",
+        "source": "en/accessible-meetings/accessible-meeting-event-guidelines/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/Official-languages-recommendations/en/index.html",
+        "source": "en/accessible-meetings/Official-languages-recommendations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-meetings/CART-services-Sign-Language-Interpreters/en/index.html",
+        "source": "en/accessible-meetings/CART-services-Sign-Language-Interpreters/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/en/index.html",
+        "source": "en/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/pdf-accessibility-checklist",
+        "source": "en/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/pdf-accessibility-checklist/en/index.html",
+        "source": "en/accessible-documents/pdf-accessibility-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/ms-doc-compliance-checklist",
+        "source": "en/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/ms-doc-compliance-checklist/en/index.html",
+        "source": "en/accessible-documents/ms-doc-compliance-checklist/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-word",
+        "source": "en/accessible-documents/best-practices-word/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-word/en/index.html",
+        "source": "en/accessible-documents/best-practices-word/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-powerpoint",
+        "source": "en/accessible-documents/best-practices-powerpoint/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-powerpoint/en/index.html",
+        "source": "en/accessible-documents/best-practices-powerpoint/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-outlook",
+        "source": "en/accessible-documents/best-practices-outlook/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-outlook/en/index.html",
+        "source": "en/accessible-documents/best-practices-outlook/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/best-practices-excel",
+        "source": "en/accessible-documents/best-practices-excel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/best-practices-excel/en/index.html",
+        "source": "en/accessible-documents/best-practices-excel/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "fr/accessible-documents/accessible-documents-questions-answers",
+        "source": "en/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/accessible-documents-questions-answers/en/index.html",
+        "source": "en/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/resources/best-practices-excel-en.html",
+        "source": "en/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-documents/resources/best-practices-powerpoint-en.html",
+        "source": "en/accessible-documents/accessible-documents-questions-answers/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-desktop-software/en/index.html",
+        "source": "en/accessible-desktop-software/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessible-desktop-software/a11ycheck-nonweb/en/index.html",
+        "source": "en/accessible-desktop-software/a11ycheck-nonweb/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-standards/en/index.html",
+        "source": "en/accessibility-standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-standards/en/accessibility-in-the-government-of-canada",
+        "source": "en/accessibility-standards/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-your-role/en/index.html",
+        "source": "en/accessibility-in-your-role/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-the-government-of-canada/en/index.html",
+        "source": "en/accessibility-in-the-government-of-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-the-government-of-canada/en/accessibility-act/index.html",
+        "source": "en/accessibility-in-the-government-of-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-the-government-of-canada/en/community-directory/index.html",
+        "source": "en/accessibility-in-the-government-of-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-the-government-of-canada/en/procurement/index.html",
+        "source": "en/accessibility-in-the-government-of-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-in-the-government-of-canada/en/accessibility-standards/index.html",
+        "source": "en/accessibility-in-the-government-of-canada/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-fundamentals/en/index.html",
+        "source": "en/accessibility-fundamentals/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-fundamentals/en/about-disabilities/index.html",
+        "source": "en/accessibility-fundamentals/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-fundamentals/en/global-accessibility-standards/index.html",
+        "source": "en/accessibility-fundamentals/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-act/en/index.html",
+        "source": "en/accessibility-act/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/accessibility-act/en/accessibility-in-the-government-of-canada",
+        "source": "en/accessibility-act/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-us/en/index.html",
+        "source": "en/about-us/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-us/en/contact-us/index.html",
+        "source": "en/about-us/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-us/en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "source": "en/about-us/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-the-digital-the-accessibility-toolkit-project/en/index.html",
+        "source": "en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-the-digital-the-accessibility-toolkit-project/en/about-us",
+        "source": "en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-the-digital-the-accessibility-toolkit-project/en/digital-accessibility-toolkit-project/index.html",
+        "source": "en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-the-digital-the-accessibility-toolkit-project/en/terms-of-reference/index.html",
+        "source": "en/about-the-digital-the-accessibility-toolkit-project/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/index.html",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/accessibility-fundamentals",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/auditory-disabilities/index.html",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/cognitive-disabilities/index.html",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/most-common-types-of-disability/index.html",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about-disabilities/en/visual-impairments/index.html",
+        "source": "en/about-disabilities/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/en/index.html",
+        "source": "en/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/dat/index.html",
+        "source": "en/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations",
+        "source": "en/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/workinggroups",
+        "source": "en/about/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/workinggroups/en/index.html",
+        "source": "en/about/workinggroups/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/workinggroups/awg",
+        "source": "en/about/workinggroups/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/workinggroups/measurement/en/index.html",
+        "source": "en/about/workinggroups/measurement/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/workinggroups/awg/en/index.html",
+        "source": "en/about/workinggroups/awg/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/en/index.html",
+        "source": "en/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/esdc",
+        "source": "en/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/statcan",
+        "source": "en/about/organizations/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/statcan/en/index.html",
+        "source": "en/about/organizations/statcan/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/esdc/en/index.html",
+        "source": "en/about/organizations/esdc/index.html",
+        "reason": "page not found"
+      },
+      {
+        "type": "page",
+        "target": "en/about/organizations/csps/en/index.html",
+        "source": "en/about/organizations/csps/index.html",
+        "reason": "page not found"
+      }
+    ],
+    "warnings": [],
+    "parsedFiles": 374,
+    "localLinks": 808,
+    "localAnchorLinks": 720,
+    "parentLinks": 0,
+    "parentAnchorLinks": 0,
+    "remoteLinks": 0,
+    "remoteAnchorLinks": 0
+  }
+}
