@@ -1,4 +1,6 @@
 {
     "disable-external": true,
-    "allow-hash-href": true
+    "allow-hash-href": true,
+    "url-ignore": ["/fr/"]
+    
 }
