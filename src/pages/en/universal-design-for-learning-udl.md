@@ -14,6 +14,7 @@ layout: layouts/base.njk
 audience:
   - Learning designer
   - Educator / facilitator
+toggle: conception-universelle-pour-l-apprentissage-cua
 ---
 
 # Introduction to Universal Design for Learning (UDL)

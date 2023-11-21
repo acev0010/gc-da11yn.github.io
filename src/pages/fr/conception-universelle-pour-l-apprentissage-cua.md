@@ -19,6 +19,7 @@ layout: layouts/base.njk
 audience:
   - Concepteur d’apprentissage
   - Éducateur / animateur
+toggle: universal-design-for-learning-udl
 ---
 
 ## **Brève introduction / Description**

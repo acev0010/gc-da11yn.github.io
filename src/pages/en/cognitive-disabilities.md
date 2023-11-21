@@ -27,6 +27,7 @@ Keywords:
 layout: layouts/base.njk
 audience:
   - Everyone
+toggle: handicaps-cognitifs
 ---
 
 # **Cognitive Disabilities**

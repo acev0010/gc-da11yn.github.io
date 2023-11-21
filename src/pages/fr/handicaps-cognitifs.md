@@ -28,6 +28,7 @@ keywords:
 layout: layouts/base.njk
 audience:
   - Everyone
+toggle: cognitive-disabilities
 ---
 
 On trouve une vaste gamme de déficience cognitive, telle que l'affaiblissement de la mémoire à court et à long terme et la différence perceptuelle. Les troubles du langage, y compris la dyslexie et les troubles temporaires associés à l'apprentissage de nouvelles langues, sont également des problèmes cognitifs courants. Habituellement, une combinaison de technologie informatique adaptative est utilisé pas les personnes en situation d’handicaps cognitifs.

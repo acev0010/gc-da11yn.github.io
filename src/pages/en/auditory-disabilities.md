@@ -8,6 +8,7 @@ tags:
 layout: layouts/base.njk
 audience:
   - Everyone
+toggle: deficiences-auditives
 ---
 
 # Auditory Disabilities

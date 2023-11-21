@@ -8,6 +8,7 @@ tags:
 layout: layouts/base.njk
 audience:
   - Everyone
+toggle: deficiences-visuelles
 ---
 
 Visual disabilities are sensory disabilities that can range from some amount of vision loss, loss of visual acuity, or increased or decreased sensitivity to specific or bright colors, to complete or uncorrectable loss of vision in either or both eyes.

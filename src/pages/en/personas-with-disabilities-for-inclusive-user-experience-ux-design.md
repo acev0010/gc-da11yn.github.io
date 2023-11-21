@@ -7,6 +7,7 @@ subject:
   - accessibilityFundamentals
 tags:
   - aboutDisabilities
+toggle: personas-handicapes-pour-la-conception-d-une-experience-utilisateur-inclusive-eu
 ---
 
 <h2>Table of contents</h2>

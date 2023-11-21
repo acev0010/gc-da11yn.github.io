@@ -13,6 +13,7 @@ subject:
   - accessibilityFundamentals
 tags:
   - aboutDisabilities
+toggle: handicaps-de-mobilite-de-flexibilite-et-de-structure-corporelle
 ---
 
 # Mobility, Flexibility, and Body Structure Disabilities
